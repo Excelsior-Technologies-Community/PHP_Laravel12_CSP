@@ -23,7 +23,7 @@ return [
 
     ],
 
-    'report_uri' => null,
+    'report_uri' => '/api/csp-report',
 
     'enabled' => env('CSP_ENABLED', true),
 
